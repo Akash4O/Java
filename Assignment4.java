@@ -6,7 +6,6 @@ public class Assignment4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a,b;
-        boolean flag=true;
         System.out.println("Enter the First Number : ");
         a = sc.nextInt();
         System.out.println("Enter the Second Number : ");
