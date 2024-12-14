@@ -12,7 +12,7 @@ public class Assignment9 {
 
         while(num>0){
             int digit = num %10;
-            sum = sum + Math.pow(digit, size);
+            sum = (int) (sum + Math.pow(digit, size));
             num = num / 10;
         }
 

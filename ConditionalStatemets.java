@@ -26,7 +26,6 @@ public class ConditionalStatemets {
 
         max = Math.max(c,Math.max(a, b));
 
-
         System.out.println(max);
         sc.close();
 
